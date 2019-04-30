@@ -1,0 +1,1 @@
+cat inp | .\target\release\mars-discovery > out
